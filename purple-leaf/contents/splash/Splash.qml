@@ -11,6 +11,6 @@
             id: neo
             source: "images/purpleleaf.gif"
            anchors.fill: parent
-           fillMode: Image.AspectFit
+           fillMode: Image.Stretch
         }
     }
